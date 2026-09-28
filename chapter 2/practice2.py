@@ -8,4 +8,4 @@ difference = a-b
 product = a*b
 greater = a>b
 
-print(f"sum is: {sum}\n difference is: {difference}\n product is: {product}\n greater is: {greater}")
+print(f"sum is: {sum}\ndifference is: {difference}\nproduct is: {product}\ngreater is: {greater}")
